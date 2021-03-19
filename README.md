@@ -1,1 +1,1 @@
-# stardust
+# https://irynauc.github.io/stardust/
